@@ -2,7 +2,7 @@
 * "Jangan modal nama doang bro!!!"
 * (Scriptnya Nfq cuy).
 */
-const BotName = 'Ivector'; // Nama Bot Whatsapp
+const BotName = 'IvectorBOt'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/fest.pain'; // Nama Instagramlu cok
 const whatsapplu = 'Wa.me/6285894761296'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Tergantung jaringan'; // Kapan bot lu aktif
